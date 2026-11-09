@@ -1,0 +1,21 @@
+HACKNCODE — DATAOPS INNOVATION HACKATHON 2026
+
+REQUIRED PLATFORM SUBMISSIONS
+[ ] Project presentation PPT — upload to Google Drive; anyone with link can view.
+[ ] Project demonstration video — upload to Google Drive; anyone with link can view.
+[ ] GitHub repository — push the complete source repository and README.
+
+RECOMMENDED SUPPORTING MATERIAL
+[ ] Sample investigation dossier PDF
+[ ] Synthetic demo dataset
+[ ] Architecture and demo script
+
+TEAM
+Team: HACKNCODE
+Team Leader: Parag Patel
+Members: Dhruvi Dave, Dhruvansh Dave
+
+IMPORTANT
+Do not submit claims for features marked not implemented in README.
+Run the app and record a real walkthrough before submitting the demo video.
+Check all Drive permissions and open links in an incognito/private browser.
